@@ -3,4 +3,4 @@ os: linux
 hooks:
     BeforeInstall:
      - location: deploy.sh
-       runas: root
+       runas: ec2-user

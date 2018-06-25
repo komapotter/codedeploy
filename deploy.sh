@@ -1,1 +1,1 @@
-echo "success" > /var/tmp/deploy.result
+echo "fugahoge" > /var/tmp/deploy.result
