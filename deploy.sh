@@ -1,3 +1,2 @@
 cd /var/tmp
-echo "fugahogehogehogehogeeeeee!!!" > deploy.result
-env > deploy.env
+echo "cap ${DEPLOYMENT_GROUP_NAME} deploy" > deploy.command
