@@ -1,1 +1,2 @@
-echo "fugahoge" > /var/tmp/deploy.result
+cd /var/tmp
+echo "fugahogehogehogehogeeeeee!!!" > deploy.result
